@@ -1,0 +1,61 @@
+,ID_Pedido,Data_Pedido,ID_Cliente,Segmento,Pais,Regiao,ID_Produto,Categoria,Nome_Produto,Valor_Venda,Quantidade,Ano
+463,CA-2016-109869,2016-04-22,TN-21040,Home Office,United States,West,FUR-TA-10001889,Furniture,Bush Advantage Collection Racetrack Conference Table,1272.63,6.0,2016
+485,CA-2017-140963,2017-06-10,MT-18070,Home Office,United States,West,FUR-BO-10001337,Furniture,O'Sullivan Living Dimensions 2-Shelf Bookcases,514.165,5.0,2017
+515,CA-2017-127432,2017-01-22,AD-10180,Home Office,United States,West,TEC-CO-10003236,Technology,Canon Image Class D660 Copier,2999.95,5.0,2017
+518,CA-2017-127432,2017-01-22,AD-10180,Home Office,United States,West,OFF-ST-10004459,Office Supplies,Tennsco Single-Tier Lockers,1126.02,3.0,2017
+638,CA-2016-115917,2016-05-20,RB-19465,Home Office,United States,West,FUR-FU-10000576,Furniture,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1049.2,5.0,2016
+777,CA-2015-144267,2015-08-21,NZ-18565,Home Office,United States,West,FUR-CH-10002335,Furniture,Hon GuestStacker Chair,544.008,3.0,2015
+1189,CA-2017-117212,2017-02-26,BT-11530,Home Office,United States,West,TEC-PH-10004447,Technology,Toshiba IPT2010-SD IP Telephone,889.536,8.0,2017
+1190,CA-2017-117212,2017-02-26,BT-11530,Home Office,United States,West,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs,892.224,3.0,2017
+1486,CA-2015-140410,2015-11-03,CM-12655,Home Office,United States,West,TEC-PH-10003580,Technology,Cisco IP Phone 7961G-GE VoIP phone,1212.848,7.0,2015
+1505,CA-2015-153388,2015-08-01,PC-19000,Home Office,United States,West,FUR-TA-10003715,Furniture,Hon 2111 Invitation Series Corner Table,1004.976,6.0,2015
+1930,US-2017-101539,2017-03-16,VM-21685,Home Office,United States,West,TEC-PH-10004165,Technology,Mitel MiVoice 5330e IP Phone,659.976,3.0,2017
+2074,CA-2017-122504,2017-11-07,DB-13270,Home Office,United States,West,TEC-PH-10002468,Technology,"Plantronics CS 50-USB - headset - Convertible, Monaural",761.544,7.0,2017
+2246,CA-2017-103380,2017-11-21,BF-11005,Home Office,United States,West,TEC-PH-10004165,Technology,Mitel MiVoice 5330e IP Phone,659.976,3.0,2017
+2483,CA-2017-126067,2017-08-28,KN-16705,Home Office,United States,West,FUR-TA-10000617,Furniture,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",1137.75,5.0,2017
+2785,CA-2015-149972,2015-09-21,CD-12790,Home Office,United States,West,FUR-CH-10004997,Furniture,Hon Every-Day Series Multi-Task Chairs,601.536,4.0,2015
+2954,CA-2017-134915,2017-11-12,EM-14140,Home Office,United States,West,TEC-PH-10001459,Technology,Samsung Galaxy Mega 6.3,671.984,2.0,2017
+3011,CA-2017-134845,2017-04-17,SR-20425,Home Office,United States,West,TEC-MA-10000822,Technology,Lexmark MX611dhe Monochrome Laser Printer,2549.985,5.0,2017
+3043,CA-2017-149559,2017-09-11,KF-16285,Home Office,United States,West,FUR-CH-10002320,Furniture,Hon Pagoda Stacking Chairs,2054.272,8.0,2017
+3273,CA-2017-133865,2017-05-08,PS-19045,Home Office,United States,West,TEC-CO-10001046,Technology,Canon Imageclass D680 Copier / Fax,3359.952,6.0,2017
+3496,CA-2016-107328,2016-08-08,CA-12055,Home Office,United States,West,FUR-TA-10001932,Furniture,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",513.024,2.0,2016
+3569,CA-2017-168109,2017-07-03,JK-15640,Home Office,United States,West,TEC-MA-10001148,Technology,Okidata MB491 Multifunction Printer,2395.2,6.0,2017
+3570,CA-2017-168109,2017-07-03,JK-15640,Home Office,United States,West,TEC-AC-10002049,Technology,Plantronics Savi W720 Multi-Device Wireless Headset System,1687.8,4.0,2017
+3624,CA-2017-113530,2017-05-19,BC-11125,Home Office,United States,West,FUR-CH-10002647,Furniture,"Situations Contoured Folding Chairs, 4/Set",681.408,12.0,2017
+3777,CA-2015-107937,2015-05-03,JB-16045,Home Office,United States,West,FUR-FU-10002298,Furniture,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",665.88,6.0,2015
+4136,CA-2017-105914,2017-10-02,PV-18985,Home Office,United States,West,OFF-ST-10003716,Office Supplies,Tennsco Double-Tier Lockers,1575.14,7.0,2017
+4291,CA-2017-102407,2017-12-09,AT-10435,Home Office,United States,West,FUR-TA-10003748,Furniture,Bevis 36 x 72 Conference Tables,896.328,9.0,2017
+4586,US-2017-163790,2017-11-02,NL-18310,Home Office,United States,West,OFF-BI-10003718,Office Supplies,GBC Therma-A-Bind 250T Electric Binding System,590.352,6.0,2017
+4619,CA-2017-145219,2017-12-24,RM-19675,Home Office,United States,West,TEC-CO-10001449,Technology,Hewlett Packard LaserJet 3310 Copier,2879.952,6.0,2017
+4716,CA-2017-143126,2017-12-03,CM-12655,Home Office,United States,West,FUR-TA-10002958,Furniture,"Bevis Oval Conference Table, Walnut",521.96,2.0,2017
+4719,CA-2015-142601,2015-04-18,DE-13255,Home Office,United States,West,OFF-ST-10002756,Office Supplies,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",947.17,7.0,2015
+4987,CA-2016-149279,2016-04-24,CL-12700,Home Office,United States,West,FUR-CH-10004287,Furniture,SAFCO Arco Folding Chair,1325.76,6.0,2016
+4990,CA-2017-107321,2017-08-31,AW-10930,Home Office,United States,West,TEC-PH-10002200,Technology,Aastra 6757i CT Wireless VoIP phone,689.408,4.0,2017
+5148,CA-2017-128734,2017-12-24,JL-15175,Home Office,United States,West,FUR-CH-10001394,Furniture,Global Leather Executive Chair,842.376,3.0,2017
+5427,US-2016-108497,2016-06-14,MH-17290,Home Office,United States,West,FUR-BO-10004218,Furniture,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",599.165,5.0,2016
+5434,CA-2015-160171,2015-10-19,RM-19675,Home Office,United States,West,OFF-AP-10000275,Office Supplies,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",1640.7,5.0,2015
+5662,CA-2016-108875,2016-09-24,CL-12700,Home Office,United States,West,OFF-ST-10001370,Office Supplies,Sensible Storage WireTech Storage Systems,511.056,9.0,2016
+5869,CA-2016-152247,2016-11-07,MA-17995,Home Office,United States,West,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter,1603.136,4.0,2016
+6014,CA-2016-159016,2016-03-10,KF-16285,Home Office,United States,West,TEC-PH-10002885,Technology,Apple iPhone 5,4158.912,8.0,2016
+6067,CA-2017-166695,2017-05-20,CC-12430,Home Office,United States,West,FUR-CH-10000225,Furniture,"Global Geo Office Task Chair, Gray",518.272,8.0,2017
+6289,US-2015-139675,2015-03-13,NF-18595,Home Office,United States,West,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair,915.136,4.0,2015
+6646,US-2016-127334,2016-12-15,MP-18175,Home Office,United States,West,FUR-TA-10003473,Furniture,Bretford Rectangular Conference Table Tops,564.195,3.0,2016
+6879,CA-2015-137113,2015-12-01,TW-21025,Home Office,United States,West,FUR-CH-10001215,Furniture,Global Troy Executive Leather Low-Back Tilter,2003.92,5.0,2015
+6881,CA-2015-137113,2015-12-01,TW-21025,Home Office,United States,West,FUR-TA-10001705,Furniture,Bush Advantage Collection Round Conference Table,1913.4,9.0,2015
+7190,CA-2016-164399,2016-11-12,DW-13480,Home Office,United States,West,FUR-TA-10003392,Furniture,Global Adaptabilities Conference Tables,674.352,3.0,2016
+7281,CA-2017-159282,2017-10-16,GH-14410,Home Office,United States,West,TEC-MA-10001148,Technology,Swingline SM12-08 MicroCut Jam Free Shredder,599.985,5.0,2017
+7472,CA-2016-139997,2016-07-01,EM-14140,Home Office,United States,West,TEC-CO-10000971,Technology,Hewlett Packard 310 Color Digital Copier,1499.95,5.0,2016
+7641,US-2016-157490,2016-10-06,LB-16795,Home Office,United States,West,TEC-MA-10001695,Technology,Zebra GK420t Direct Thermal/Thermal Transfer Printer,703.71,6.0,2016
+7814,US-2017-109316,2017-06-08,MG-17680,Home Office,United States,West,FUR-BO-10004834,Furniture,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",1497.666,2.0,2017
+7818,CA-2016-138478,2016-10-21,DP-13390,Home Office,United States,West,OFF-BI-10001120,Office Supplies,Ibico EPK-21 Electric Binding System,4535.976,3.0,2016
+7872,CA-2016-101672,2016-10-03,DB-12910,Home Office,United States,West,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair,915.136,4.0,2016
+7997,US-2017-105998,2017-11-03,CR-12580,Home Office,United States,West,FUR-TA-10001095,Furniture,Chromcraft Round Conference Tables,1673.184,12.0,2017
+8100,CA-2016-169663,2016-03-10,RH-19510,Home Office,United States,West,TEC-MA-10000984,Technology,Okidata MB760 Printer,3357.6,3.0,2016
+8168,CA-2017-107174,2017-11-06,AB-10060,Home Office,United States,West,FUR-TA-10004575,Furniture,Hon 5100 Series Wood Tables,2036.86,7.0,2017
+8365,CA-2017-157273,2017-01-30,SZ-20035,Home Office,United States,West,TEC-PH-10002275,Technology,Mitel 5320 IP Phone VoIP phone,604.768,4.0,2017
+8888,CA-2017-103968,2017-12-01,ML-17755,Home Office,United States,West,FUR-FU-10003394,Furniture,"Tenex ""The Solids"" Textured Chair Mats",629.64,9.0,2017
+8892,CA-2015-111038,2015-12-01,LC-16960,Home Office,United States,West,FUR-CH-10003973,Furniture,GuestStacker Chair with Chrome Finish Legs,2676.672,9.0,2015
+9133,CA-2015-157805,2015-08-31,RH-19510,Home Office,United States,West,TEC-PH-10004447,Technology,Toshiba IPT2010-SD IP Telephone,555.96,5.0,2015
+9172,US-2016-155768,2016-12-01,LB-16795,Home Office,United States,West,OFF-ST-10002292,Office Supplies,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",1112.94,3.0,2016
+9660,CA-2016-160717,2016-06-06,ME-17320,Home Office,United States,West,TEC-PH-10001459,Technology,Samsung Galaxy Mega 6.3,3023.928,9.0,2016
+9847,CA-2017-169327,2017-09-02,MH-17290,Home Office,United States,West,FUR-FU-10004188,Furniture,Luxo Professional Combination Clamp-On Lamps,511.5,5.0,2017
